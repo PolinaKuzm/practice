@@ -1,0 +1,42 @@
+td {
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+}
+
+.crossedOut {
+	text-decoration: line-through;
+  }
+
+/* .backgroundColored{
+	background-color: green;
+} */
+.colored{
+background-color: green;
+}
+
+.hidden {
+	display: none;
+}
+
+.active {
+	background: red;
+}
+
+.color1 {
+	background: red;
+}
+.color2 {
+	background: green;
+}
+
+
+.color11 {
+	background: red;
+}
+.color12 {
+	background: green;
+}
+.color13 {
+	background: yellow;
+}
